@@ -1,0 +1,23 @@
+/* This changes three of the default styles and many webdesigners include this in the top of every style they create. */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: 900;
+  color: #cfa553;
+}
+
+body {
+  background-color: #fff4d1;
+  color: #8a703e;
+  font-family: 'Rowdies', cursive;
+}
+
+main {
+  margin:auto;
+  max-width: 800px;
+}
